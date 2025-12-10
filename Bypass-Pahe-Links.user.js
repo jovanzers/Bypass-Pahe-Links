@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Bypass Pahe Links
-// @namespace    https://naeembolchhi.github.io/
-// @version      0.102
+// @namespace    https://github.com/jovanzers
+// @version      0.103
 // @description  Simplify link jumping on pahe ad websites.
-// @author       NaeemBolchhi
+// @author       NaeemBolchhi & Jovanzers
 // @match        http*://teknoasian.com/*
 // @match        http*://intercelestial.com/*
 // @match        http*://linegee.net/*
