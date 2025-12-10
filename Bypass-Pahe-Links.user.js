@@ -38,7 +38,7 @@
 // @require      https://greasyfork.org/scripts/456228/code/456228.js?version=1309113
 // @run-at       document-body
 // @grant        none
-// @downloadURL https://update.greasyfork.org/scripts/443277/Bypass%20Pahe%20Links.user.js
+// @downloadURL https://github.com/jovanzers/Bypass-Pahe-Links/raw/refs/heads/master/Bypass-Pahe-Links.user.js
 // @updateURL https://update.greasyfork.org/scripts/443277/Bypass%20Pahe%20Links.meta.js
 // ==/UserScript==
 
