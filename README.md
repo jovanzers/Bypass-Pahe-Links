@@ -1,6 +1,11 @@
 # Bypass Pahe Links
 Simplify link jumping on pahe ad websites using userscript.
 
+## How to Install
+Make sure you already install [Userscript Manager](#browsers-and-userscript-managers) extension in your browser.
+
+Then, [click here to install Bypass Pahe Links](https://github.com/jovanzers/Bypass-Pahe-Links/raw/refs/heads/master/Bypass-Pahe-Links.user.js) script.
+
 ## Supported Platforms
 This userscript supports a wide range of browsers and userscript managers across various operating systems. If you're using a derived browser with its own version number, please revert to the official one for compatibility.
 
