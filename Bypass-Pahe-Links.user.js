@@ -4,6 +4,8 @@
 // @version      0.103
 // @description  Simplify link jumping on pahe ad websites.
 // @author       NaeemBolchhi & Jovanzers
+// @homepageURL  https://github.com/jovanzers/Bypass-Pahe-Links
+// @supportURL   https://github.com/jovanzers/Bypass-Pahe-Links/issues
 // @match        http*://teknoasian.com/*
 // @match        http*://intercelestial.com/*
 // @match        http*://linegee.net/*
