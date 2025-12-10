@@ -1,1 +1,2 @@
-# Bypass-Pahe-Links
+# Bypass Pahe Links
+Thanks to original author: naeembolchhi
