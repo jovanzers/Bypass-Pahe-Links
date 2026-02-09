@@ -41,6 +41,7 @@
 // @run-at       document-body
 // @grant        none
 // @downloadURL https://github.com/jovanzers/Bypass-Pahe-Links/raw/refs/heads/master/Bypass-Pahe-Links.user.js
+// @updateURL https://github.com/jovanzers/Bypass-Pahe-Links/raw/refs/heads/master/Bypass-Pahe-Links.meta.js
 // ==/UserScript==
 
 (function() {
