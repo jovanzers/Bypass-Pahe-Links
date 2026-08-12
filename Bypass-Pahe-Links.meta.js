@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bypass Pahe Links
 // @namespace    https://github.com/jovanzers
-// @version      0.106.6
+// @version      0.106.7
 // @description  Simplify link jumping on pahe ad websites.
 // @author       NaeemBolchhi & Jovanzers
 // @match        http*://teknoasian.com/*
@@ -49,6 +49,7 @@
 // @match        https://zpserver.com/*
 // @match        https://fitpractise.com/*
 // @match        https://autoshieldd.com/*
+// @match        https://selfhostt.com/*
 // @license      GPL-3.0-or-later
 // @require      https://greasyfork.org/scripts/456228/code/456228.js?version=1309113
 // @run-at       document-body
